@@ -1,0 +1,339 @@
+.atlogo{
+width: 153px;
+height:120px;
+border-style:solid;
+border-width:10px;
+border-color:firebrick;
+text-align:center;
+color:blue;
+margin-left:70px;
+margin-top:0px;
+border-radius: 8px;
+position:fixed;
+opacity:1;
+
+}
+
+ul{padding:0; margin:0; list-style:none;font-family:fantasy;}
+ul li{float:left; position:relative; width:150px;}
+ul li ul{display:none; position:absolute; top:40px; left:0;}
+ul li a{display:block; width:150px; height:40px; line-height:40px; background-color:black; text-align:center; color:white; text-decoration:none}
+ul li a:hover{background-color:red ;color:black;font-size:15px;}
+ul li:hover ul{display:block}
+/*
+ul li ul li ul li {float:left; position:relative; width:150px;float:left; position:relative; width:150px;}
+ul li ul li ul li a {display:block; width:150px; height:40px; line-height:40px; background-color:black; text-align:center; color:white; text-decoration:none}
+ul li ul li ul li a :hover {background-color:red ;color:black;font-size:15px;}
+ul li ul li ul :hover li {display:block}
+*/
+.yataymenu{
+width:720px;
+height:auto;
+margin-left:300px;
+}
+
+.kayanisim{
+margin-top:50px;
+font-family:fantasy;
+border-style:solid;
+border-width:5px;
+background-color:red;
+text-align:center;
+margin-bottom:10px;
+border-color:black;
+color:black;
+height:30px;
+font-size:25px;
+margin-left:300px;
+margin-right:290px;
+
+}
+
+.kayanisimimpreza{
+margin-top:50px;
+font-family:fantasy;
+border-style:solid;
+border-width:5px;
+background-color:red;
+text-align:center;
+margin-bottom:10px;
+border-color:black;
+color:black;
+height:30px;
+font-size:25px;
+margin-left:300px;
+margin-right:290px;
+width:590px;
+}
+
+/*
+body{
+background-image:url("pasha.png");
+background-repeat:space;
+background-position:fixed;
+*/
+}
+
+.kutubu{
+  border-width:5px;
+  border-style:solid;
+  border-color:pink;
+  background-color:yellow;
+  padding: 200px;
+  margin: 90px;
+  width: 600px;
+  height: 150px;
+}
+
+body{background-color:lightgrey;}
+
+.rx8{
+ width:270px;
+ height:270px;
+ margin-top:0px;
+ background-color:white;
+ float:left;
+ margin-left:10px;
+ border-color:black;
+ border-width:5px;
+ border-style:solid;
+
+
+ }
+ .rxyazi{
+ width:270px;
+ height:50px;
+ margin-top:10px;
+ background-color:white;
+ float:right;
+ margin-left:10px;
+ border-color:black;
+ border-width:5px;
+ border-style:solid;
+ margin-right:289px;
+ font-family: "Lucida Handwriting";
+ text-align:center;
+ color:black;
+
+ border-style:solid;
+  display:flex;
+ justify-content: center;
+ align-items: center;
+
+ 
+ }
+ 
+ .impreza{
+width:348px;
+height:199px;
+margin-left:10px;
+border-color:black;
+border-width:5px;
+border-style:solid;
+display:flex;
+margin-top:200px;
+position:fixed;
+border-bottom-color:green;
+border-left-color:green;
+border-top-color:green;
+border-right-color:green;
+}
+.imprezayazi{
+
+	width:344px;
+	height:50px;
+	margin-left:10px;
+	border-color:black;
+	border-style:solid;
+	margin-top:130px;
+	background-color:white;
+	color:black;
+	position:fixed;
+	text-align:center; 
+	display:flex;
+ justify-content: center;
+ align-items: center;
+ font-family:fantasy;
+ background-color:red;
+ border-width:7px;
+
+	
+}
+
+.kurulus{
+	
+	border-width:5px;
+	border-color:black;
+	background-color:white;
+	position:right;
+	color:black;
+	text-align:left;
+	margin-top: 270px;
+	margin-left:385px;
+	width: 500px;
+	height:270px;
+	border-style:solid;
+	background-color:lightblue;
+	font-size:20px;
+	
+	
+}
+
+.wrxsti{
+	
+	border-color:black;
+	border-width:5px;
+	border-style:solid;
+	width:499px;
+	height:299px;
+
+	margin-left:0px;
+	margin-top:150px;
+background-color:black;	
+position:fixed;
+	
+}
+.wrxyazi{
+	border-width:5px;
+	border-color:black;
+	border-style:solid;
+	margin-left:650px;
+	margin-top:0px;
+	width:400px;
+	height:260px;
+	text-align:left;
+	font-family:georgia;
+	background-color:lightblue;
+	position:fixed;
+	
+}
+.wrxtanitim{
+	
+	border-width:5px;
+	border-color:black;
+	border-style:solid;
+	width:400px;
+	height:300px;
+	margin-left:650px;
+		margin-top:280px;
+		position:fixed;
+		background-color:black;
+
+	
+	
+}
+/*.wrxmenu{
+	
+	width:
+}*/
+.form{
+border-width:5px;
+border-color:black;
+border-style:solid;
+width:590px;
+height:300px;
+margin-left:300px;
+margin-top:00px;
+background-color:white;
+}
+.gonde{
+	border-width:5px;
+	border-style:solid;
+	border-color:black;
+	margin-top:30px;
+	margin-left:300px;
+	height:200px;
+	width:400px;
+	background-color:white;
+	font-family:fantasy;
+	text-align:center;
+	justify-content: center;
+ align-items: center;display:flex;
+}
+
+
+.kayanyazimazda{
+	
+	position:absolute;
+	width:1008px;
+	left:30%;
+	top:5%;
+	border-width:5px;
+	border-color:black;
+	border-style:solid;
+	background-color:white;
+	font-family:fantasy;
+	height:30px;
+	text-align:center;
+		text-align:center;
+	justify-content: center;
+ align-items: center;
+ display:flex;
+ font-size:30px;
+	
+}
+
+
+.yataymenumazda{
+	top:12%;
+	left:30%;
+	position:absolute;
+
+	
+}
+
+.atlogomazda{
+	
+	position:absolute;
+	top:5%;
+	left:5%;
+	border-style:solid;
+	border-width:10px;
+	border-radius:10px;
+	border-color:firebrick;
+	
+}
+
+.mazda1{
+top:12%;
+right:2%;
+position:absolute;
+border-style:solid;
+border-width:5px;
+background:url(mazdarace.jpg);
+	height:50h;
+	background-size:100% 100%;
+
+}
+
+.mazdalogo{
+	top:20%;
+left:30%;
+position:absolute;
+border-style:solid;
+border-width:5px;
+background:url(mazdarace.jpg);
+	height:50h;
+	background-size:100% 100%;
+	background-color:white;
+	
+}
+
+.mazdaaraba{
+		top:20%;
+left:48%;
+position:absolute;
+border-style:solid;
+border-width:5px;
+background:url(mazdadoor.jpg);
+	height:50h;
+	background-size:100% 100%;
+	background-color:black;
+	
+	
+}
+
+
+.mazdalogo{background-size:100% 100%;
+
+}
